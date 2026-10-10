@@ -1,0 +1,23 @@
+# This repo hosts documentation only.
+# Never commit the application source or secrets.
+
+*.R
+*.r
+*.Rproj
+.Rproj.user/
+.Rhistory
+.RData
+.Renviron
+
+# Secrets / credentials
+*.key
+*.secret
+scopus_api_key.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
