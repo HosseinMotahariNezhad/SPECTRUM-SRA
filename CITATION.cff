@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use SPECTRUM SRA in your research, please cite it as below."
+title: "SPECTRUM SRA: An Interactive Web Application for Systematic Review Automation"
+abstract: "SPECTRUM SRA is an interactive web application that automates the systematic review pipeline, including search query generation for PubMed, Scopus, and Web of Science, deduplication, dual-reviewer screening with Cohen's Kappa, PRISMA 2020 diagram generation, and LLM-assisted data extraction."
+authors:
+  - family-names: "Motahari Nezhad"
+    given-names: "Hossein"
+    affiliation: "Department of Knowledge and Information Science, University of Isfahan, Iran"
+    email: "h.motahari.lib@gmail.com"
+  - family-names: "Cheshmehsohrabi"
+    given-names: "Mehrdad"
+    affiliation: "Department of Knowledge and Information Science, University of Isfahan, Iran"
+version: "1.0.0"
+date-released: "2025-01-01"
+license: MIT
+url: "https://motaharinezhad.shinyapps.io/SPECTRUM_SRA/"
+repository-code: "https://github.com/HosseinMotahariNezhad/SPECTRUM-SRA"
+keywords:
+  - systematic review
+  - PRISMA
+  - R Shiny
+  - evidence synthesis
+  - PubMed
+  - Scopus
+  - Web of Science
+  - MeSH
+  - Cohen's Kappa
+  - automation
