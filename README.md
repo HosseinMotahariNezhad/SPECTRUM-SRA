@@ -50,17 +50,7 @@ Academic and non-commercial access to the source code may be granted upon reason
 
 ---
 
-## Screenshots
 
-> *(Upload your screenshots to `docs/screenshots/` and reference them here.)*
-
-| Search Builder | PRISMA Diagram |
-|----------------|----------------|
-| ![Search](docs/screenshots/search.png) | ![PRISMA](docs/screenshots/prisma.png) |
-
-| Screening Table | Data Extraction |
-|-----------------|-----------------|
-| ![Screening](docs/screenshots/screening.png) | ![Extraction](docs/screenshots/extraction.png) |
 
 ---
 
